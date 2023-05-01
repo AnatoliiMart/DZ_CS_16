@@ -7,6 +7,7 @@ namespace DZ_CS_16
     {
         static void Main(string[] args)
         {
+            //Ex1()
             Ex2_3_4();
         }
         static void Ex1()
